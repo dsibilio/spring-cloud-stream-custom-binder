@@ -9,6 +9,10 @@ This is a practical example that shows how to build a **custom Spring Cloud Stre
 3. Add a file to the *client* project classpath with its name matching the one of your destination name *(eg. spring.cloud.stream.bindings.***my-input*** requires a ***my-input*** file in the classpath)*
 4. Write something to this file and verify that your application consumes the event!
 
+## Sample
+
+You can try this custom binder out without the need to develop your own client application by referring to the [embedded sample project](samples/spring-cloud-stream-custom-binder-sample) which relies on this binder.
+
 ### Reference Documentation
 For further reference, please consider the following sources:
 
