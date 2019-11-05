@@ -16,6 +16,6 @@ It also keeps track of all messages that have been previously read by writing th
 
 ### Reference Documentation
 For further reference, please consider the following sources:
-
+* [My article about creating custom Spring Cloud Stream binders](https://medium.com/@domenicosibilio/how-to-create-a-spring-cloud-stream-binder-from-scratch-ab8b29ee931b)
 * [Spring Cloud Stream Reference Guide](https://docs.spring.io/spring-cloud-stream/docs/current/reference/htmlsingle/)
 
