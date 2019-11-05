@@ -15,6 +15,6 @@ You can try this custom binder out without the need to develop your own client a
 
 ### Reference Documentation
 For further reference, please consider the following sources:
-
+* [My article about creating custom Spring Cloud Stream binders](https://medium.com/@domenicosibilio/how-to-create-a-spring-cloud-stream-binder-from-scratch-ab8b29ee931b)
 * [Spring Cloud Stream - Binders SPI](https://docs.spring.io/spring-cloud-stream/docs/current/reference/htmlsingle/#spring-cloud-stream-overview-binder-api)
 
